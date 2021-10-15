@@ -1,2 +1,4 @@
 # summerhack2021
-Summer 2021 hackathon
+ideaflip, presentation and video 
+Video link: https://youtu.be/xzqOp2RcxAI
+
